@@ -1,8 +1,8 @@
-![Kuwagata](https://github.com/Boom244/Kuwagata/blob/master/Kuwagata-Logo.png "Kuwagata")
+![Kuwagata](https://github.com/bbadewa/Kuwagata/blob/master/Kuwagata-Logo.png "Kuwagata")
 
 C# program used for retrieving bible verses on the fly. Currently in development, but open to look-see for anyone wanting to do so.
 
-_This project is in the process of getting a long-overdue facelift! Its backend is being rewritten in C++ and modularized over at [KuwagataDLL-C++](https://github.com/Boom244/KuwagataDLL-cpp/tree/master)!_
+_This project is in the process of getting a long-overdue facelift! Its backend is being rewritten in C++ and modularized over at [KuwagataDLL-C++](https://github.com/bbadewa/KuwagataDLL-cpp/tree/master)!_
 # What is this?
 
 Kuwagata is a project that seeks to aid churches in displaying Bible verses during services. It outputs verses from OSIS bibles to .txt files and can be, with a little legwork, easily integrated with vMix, OBS Studio, and other streaming
